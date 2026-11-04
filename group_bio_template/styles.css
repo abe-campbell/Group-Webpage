@@ -99,3 +99,9 @@ button:hover {
 #innerBio {
     text-align: left;
 }
+
+#innerBio a{
+    text-align: left;
+    color: #D5CFCC;
+    text-decoration: none;
+}
