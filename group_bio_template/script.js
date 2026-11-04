@@ -32,4 +32,3 @@ function showSection(sectionId) {
     }
 }
 
-//test change
