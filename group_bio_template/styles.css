@@ -88,3 +88,14 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+#bio3 {
+    padding: 40px;
+    border-radius: 8px;
+    background: #1F7A8C;
+    color: #EDE6E3;
+}
+
+#innerBio {
+    text-align: left;
+}
