@@ -100,7 +100,12 @@ button:hover {
     text-align: left;
 }
 
-<<<<<<< HEAD
+#innerBio a{
+    text-align: left;
+    color: #D5CFCC;
+    text-decoration: none;
+}
+
 #bio2 {
     padding: 20px;
     border-radius: 8px;
@@ -136,10 +141,4 @@ button:hover {
         
     }
     
-=======
-#innerBio a{
-    text-align: left;
-    color: #D5CFCC;
-    text-decoration: none;
->>>>>>> d453e4b1d2325081f03998e81d293a3519b600e1
 }
